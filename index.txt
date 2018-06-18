@@ -1,0 +1,5 @@
+3:47 pm - 
+When I am working on tue-test branch , there are some urgent matter that need to be fixed on master. So i need to switch back to master .... create a new branch to do the hotfix .... what a pain >.< 
+
+3:49pm 
+Wow this is such an easy fix .... I am done with the fix now, let s merge this fix back to the main branch shall we :D
