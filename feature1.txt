@@ -1,0 +1,2 @@
+some one else accidentally pick up the same ticket and working on feature 1
+and has commit to staging ... while the other guy is still on feature 1
