@@ -1,3 +1,0 @@
-Hello world, this is gonna get unstaged by git reset -p hohoho .... 
-Mon 18 Jun 2018 11:40:05 AEST
-Mon 18 Jun 2018 14:56:58 AEST This is gonna be the 5th commit
