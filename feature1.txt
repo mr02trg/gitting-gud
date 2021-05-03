@@ -1,2 +1,10 @@
 some one else accidentally pick up the same ticket and working on feature 1
 and has commit to staging ... while the other guy is still on feature 1
+
+implementing some feature 1 ....
+
+adding my work on top of the existing feature 1 work already on staging
+
+continue working in feature 1.....
+
+realising i want to keep feature branch in sync with staging so i will now rebase onto staging
